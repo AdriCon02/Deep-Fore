@@ -1,2 +1,2 @@
-# BreCaPro
-Workflow for the implementation of machine learning models for breast tumour prognosis using BreCaHad dataset (2018).
+# Deep-Fore 👀
+Workflow for the implementation of Deep Learning models for breast tumour prognosis using BreCaHad (2019) dataset.
