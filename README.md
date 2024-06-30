@@ -1,4 +1,3 @@
-# Project: Deep-Fore 👀
 
 ![a](https://github.com/AdriCon02/Deep-Fore/assets/135048340/68d30f0f-da03-4971-85ee-77ef3ecd77e1)
 
