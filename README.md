@@ -8,7 +8,7 @@ Workflow for the implementation of YOLOv8 object detection models for breast tum
 This repository contains:
 
 - Image preprocessing with _Matlab_
-- _YOLOv8_ model fine-tuning w/ Grid Search
+- _YOLOv8_ & _YOLOv11_ model fine-tuning w/ Grid Search
 - Validation functions and results
 - _Nottingham Histologic Grading_ implementation
 - _Deep-Fore_ APP
